@@ -1,0 +1,99 @@
+.wrapper {
+	padding: 3vw;
+}
+
+body {
+	background-image: url('bg.png');
+	background-position: left 0px top 0px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+#funfacts {
+	width: 600px;
+	font-size:25px;
+	background-color: white;
+	font-family: Lato;
+	display:none;
+	padding: 10px;
+	border-radius:5px;
+	text-align: center;
+}
+
+#sentimentfacts {
+	width: 600px;
+	font-size:25px;
+	background-color: white;
+	font-family: Lato;
+	display:none;
+	padding: 10px;
+	border-radius:5px;
+	text-align: center;
+}
+
+.tt-menu {
+	background-color: white;
+	width:96%;
+	text-align: center;
+	font-family: Lato;
+	font-size:20px;
+	padding:2px;
+	font-color: gray;
+	border: 1px solid darkgray;
+}
+
+.typeahead {
+	width: 300px;
+	height: 50px;
+	font-size:20px;
+	font-family: Lato;
+	border-radius: 10px;
+	border:0;
+	font-color: gray;
+
+}
+
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
+}
+
+
+h1 {
+	font-family: Lobster;
+	color: white;
+	font-size: 90px;
+	position: relative;
+}
+
+#container {
+	min-width: 310px; 
+	height: 700px; 
+	padding:50px; 
+	margin: 0 auto
+}
+
+#container2 {
+	min-width: 310px; 
+	height: 700px; 
+	padding:50px; 
+	margin: 0 auto
+}
+
